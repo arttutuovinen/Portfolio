@@ -1,0 +1,120 @@
+
+
+@font-face {
+  font-family: head;
+  src: url(redland.ttf);
+}
+
+@font-face {
+  font-family: head2;
+  src: url(LibreBaskerville-Regular.ttf);
+}
+
+@font-face {
+  font-family: futura;
+  src: url(futuralight.ttf);
+}
+
+@font-face {
+  font-family: roboto;
+  src: url(roboto.ttf);
+}
+
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+.heroimage {
+  background-image: linear-gradient(
+  rgba(0,0,0,0.1),
+  rgba(0,0,0,0.1)),
+  url("5.png");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.herotext{
+  color: white;
+  text-align: center;
+}
+
+.herotext h1{
+  font-family: head;
+  font-size: 80px;
+  margin-bottom: 0%;
+  color: white;
+}
+
+.herotext h3{
+  font-family: head2;
+  font-size: 45px;
+  margin-top: 0%;
+  line-height: 0%;
+  color: white;
+}
+
+/*asdasd*/
+.align {
+  text-align: center;
+  line-height: 0%;
+}
+.img {
+  
+  max-width: 80%;
+  margin-bottom: 2.5%;
+
+}
+
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  vertical-align: middle;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.column { 
+  padding: 20px;
+  text-align: center; 
+}
+
+
+.box{
+  padding: 60px;
+  background: rgb(49, 55, 74);
+  opacity: 0.9;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.box2{
+  padding: 10px;
+  opacity: 0.9;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
