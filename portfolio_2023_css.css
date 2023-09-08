@@ -11,11 +11,6 @@
 }
 
 @font-face {
-  font-family: futura;
-  src: url(futuralight.ttf);
-}
-
-@font-face {
   font-family: roboto;
   src: url(roboto.ttf);
 }
@@ -101,7 +96,7 @@ body {
 .box2{
   padding: 10px;
   opacity: 0.9;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
   text-align: center;
 }
 
