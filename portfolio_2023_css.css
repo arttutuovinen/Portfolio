@@ -87,8 +87,9 @@ body {
 
 .box{
   padding: 60px;
-  background: rgb(49, 55, 74);
-  opacity: 0.9;
+  /*background: rgb(49, 55, 74);*/
+  background-image:url("cropped/background_01.jpg");
+  
   margin-bottom: 40px;
   text-align: center;
 }
