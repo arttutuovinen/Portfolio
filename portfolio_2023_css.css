@@ -56,7 +56,7 @@ body {
   color: white;
 }
 
-/*asdasd*/
+/*center image*/
 .align {
   text-align: center;
   line-height: 0%;
@@ -101,9 +101,11 @@ body {
   text-align: center;
 }
 
-
-
-
+.video {
+  margin: 0 auto;
+  text-align: center;
+  max-width: 1220px;
+}
 
 
 
